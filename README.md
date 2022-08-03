@@ -7,7 +7,6 @@ All the problems has a porcentaje of completetion in which I think that is possi
 - [🔧 Skills](#skills)
 
 # **Skills:**
-# **Frameworks:**
 
 ## **Programming Languages**
 
