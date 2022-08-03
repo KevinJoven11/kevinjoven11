@@ -1,8 +1,8 @@
 - 👋 Here @KevinJoven11 !
 - 💞️ I love do anything that have the word Quantum and Computing!
 
-You can look all my repository in which I did some problems and things that I thing are interesting and useful for other people.
-All the problems has a porcentaje of completetion in which I think that is possible add more information (as always).
+You can look at all my repositories in which I did some problems and things that I think are interesting and useful for other people. 
+All the problems have a percentage of completion in which I think that it is possible to add more information (as always).
 
 - [🔧 Skills](#skills)
 
