@@ -1,5 +1,6 @@
 - 👋 Here @KevinJoven11 !
-- 💞️ I love do anything that have the word Quantum and Computing!
+- 😃 I like do anything that have the word Quantum and Computing!
+- 📙 My main interest is quantum hardware which combines my major with my passion.
 
 You can look at all my repositories in which I did some problems and things that I think are interesting and useful for other people. 
 All the problems have a percentage of completion in which I think that it is possible to add more information (as always).
