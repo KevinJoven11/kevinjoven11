@@ -23,9 +23,9 @@ All the problems have a percentage of completion in which I think that it is pos
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-## **Statistics**
+## **Some interesting repositories**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinjoven11&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kevin's GitHub Stats" />
+I need here all the important links.
 
 ## **Contact**
 
