@@ -25,7 +25,7 @@ All the problems have a percentage of completion in which I think that it is pos
 
 ## **Some interesting repositories**
 
-![Prueba](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)
+[Matrix descomposition into Pauli operators](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)
 
 ## **Contact**
 
