@@ -10,6 +10,7 @@ All the problems have a percentage of completion in which I think that it is pos
 * [Matrix descomposition into Pauli operators.](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)
 * [Visualization tools for probabilities using tubes. (QHack 2023 visualization challenge second place)](https://github.com/KevinJoven11/QHack/blob/main/QHack_Visualization_Challenge.ipynb)
 * [Filtering Variational Quantum Eigensolver. (ICTP-Quantinuum Hackathon first place)](https://github.com/KevinJoven11/ICTP-Quantinuum-Hackathon-FVQE)
+* [Random Quantum Circuit. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb)
 
 ## **Programming Languages**
 
