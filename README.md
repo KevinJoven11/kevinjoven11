@@ -25,7 +25,7 @@ All the problems have a percentage of completion in which I think that it is pos
 
 ## **Some interesting repositories**
 
-I need here all the important links.
+![Prueba](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)
 
 ## **Contact**
 
