@@ -5,9 +5,9 @@
 You can look at all my repositories in which I did some problems and things that I think are interesting and useful for other people. 
 All the problems have a percentage of completion in which I think that it is possible to add more information (as always).
 
-- [🔧 Skills](#skills)
+## **Some interesting repositories**
 
-# **Skills:**
+* [Matrix descomposition into Pauli operators](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)
 
 ## **Programming Languages**
 
@@ -22,10 +22,6 @@ All the problems have a percentage of completion in which I think that it is pos
 ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-## **Some interesting repositories**
-
-[Matrix descomposition into Pauli operators](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)
 
 ## **Contact**
 
