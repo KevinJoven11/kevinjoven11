@@ -1,16 +1,17 @@
-- 👋 Here @KevinJoven11 !
-- 😃 I like do anything that have the word Quantum and Computing!
-- 📙 My main interest is quantum hardware which combines my major with my passion.
+Hello! I'm Kevin Joven, also known as @KevinJoven11 on GitHub. 👋
 
-You can look at all my repositories in which I did some problems and things that I think are interesting and useful for other people. 
-All the problems have a percentage of completion in which I think that it is possible to add more information (as always).
+I'm deeply fascinated by the intersection of Quantum and Computing, a field where cutting-edge innovation meets theoretical exploration. 😃 My primary focus is on quantum hardware and quantum algorithms, seamlessly blending my academic major with my personal passion. This unique blend allows me to dive deep into the mechanics and potential of quantum computing.
+
+In my repositories, you'll find a variety of projects and problems I've tackled. These range from theoretical concepts to practical applications, all within the realm of quantum computing and related fields. I believe in the power of open-source collaboration, so I've made sure that my work is not just a demonstration of my skills, but also a valuable resource for others interested in this exciting domain.
+
+Thank you for visiting my profile. Let's explore the quantum world together!
 
 ## **Some interesting repositories**
 
 * [Matrix descomposition into Pauli operators.](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)
-* [Visualization tools for probabilities using tubes. (QHack 2023 visualization challenge second place)](https://github.com/KevinJoven11/QHack/blob/main/QHack_Visualization_Challenge.ipynb)
-* [Filtering Variational Quantum Eigensolver. (ICTP-Quantinuum Hackathon first place)](https://github.com/KevinJoven11/ICTP-Quantinuum-Hackathon-FVQE)
-* [Random Quantum Circuits. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb)
+* [Visualization tools for probabilities using tubes. (QHack 2023 visualization challenge second place)](https://github.com/KevinJoven11/QHack/blob/main/QHack_Visualization_Challenge.ipynb) (Feb' 2022)
+* [Filtering Variational Quantum Eigensolver. (ICTP-Quantinuum Hackathon first place)](https://github.com/KevinJoven11/ICTP-Quantinuum-Hackathon-FVQE) (Apr' 2023)
+* [Random Quantum Circuits. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb) (Feb' 2023)
 
 ## **Programming Languages**
 
