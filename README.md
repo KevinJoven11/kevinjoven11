@@ -6,7 +6,7 @@ In my repositories, you'll find a variety of projects and problems I've tackled.
 
 Thank you for visiting my profile. Let's explore the quantum world together!
 
-## **Some interesting repositories**
+## **Some Interesting Repositories**
 
 * [Matrix descomposition into Pauli operators.](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)
 * [Visualization tools for probabilities using tubes. (QHack 2023 visualization challenge second place)](https://github.com/KevinJoven11/QHack/blob/main/QHack_Visualization_Challenge.ipynb) (Feb' 2022)
