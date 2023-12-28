@@ -1,4 +1,4 @@
-Hello! I'm Kevin Joven, also known as **@KevinJoven11** on GitHub. 👋
+## Hello! I'm Kevin Joven, also known as **@KevinJoven11** on GitHub. 👋
 
 I'm deeply fascinated by the intersection of Quantum and Computing, a field where cutting-edge innovation meets theoretical exploration. 😃 My primary focus is on **quantum hardware** and **quantum algorithms**, seamlessly blending my academic major with my personal passion. This unique blend allows me to dive deep into the mechanics and potential of quantum computing.
 
@@ -6,7 +6,7 @@ In my repositories, you'll find a variety of projects and problems I've tackled.
 
 Thank you for visiting my profile. Let's explore the quantum world together!
 
-## **Some Interesting Repositories**
+# **Some Interesting Repositories**
 
 ▶ Quantum Algorithms and Useful Implementations:  
   * [Linear Combination of Unitaries (LCU).](https://github.com/KevinJoven11/Quantum-Computing/blob/main/LCU/LCU.ipynb) (Dec' 23)  
