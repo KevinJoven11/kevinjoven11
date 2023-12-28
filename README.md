@@ -8,13 +8,16 @@ Thank you for visiting my profile. Let's explore the quantum world together!
 
 ## **Some Interesting Repositories**
 
-▶Quantum Algorithms and Useful Implementations  
-   * [Linear Combination of UNitaries (LCU).](https://github.com/KevinJoven11/Quantum-Computing/blob/main/LCU/LCU.ipynb) (Dec' 23)  
-   * [Matrix descomposition into Pauli operators.](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)  
+▶ Quantum Algorithms and Useful Implementations:  
+  * [Linear Combination of Unitaries (LCU).](https://github.com/KevinJoven11/Quantum-Computing/blob/main/LCU/LCU.ipynb) (Dec' 23)  
+  * [Matrix descomposition into Pauli operators.](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)  
 
-* [Visualization tools for probabilities using tubes. (QHack 2023 visualization challenge second place)](https://github.com/KevinJoven11/QHack/blob/main/QHack_Visualization_Challenge.ipynb) (Feb' 22)
-* [Filtering Variational Quantum Eigensolver. (ICTP-Quantinuum Hackathon first place)](https://github.com/KevinJoven11/ICTP-Quantinuum-Hackathon-FVQE) (Apr' 23)
-* [Random Quantum Circuits. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb) (Feb' 23)
+▶ Quantum Hackathons:  
+  * [Visualization tools for probabilities using tubes. (QHack 2023 visualization challenge second place)](https://github.com/KevinJoven11/QHack/blob/main/QHack_Visualization_Challenge.ipynb) (Feb' 22)
+  * [Filtering Variational Quantum Eigensolver. (ICTP-Quantinuum Hackathon first place)](https://github.com/KevinJoven11/ICTP-Quantinuum-Hackathon-FVQE) (Apr' 23)
+
+▶ Quantum Personal Projects:  
+  * [Random Quantum Circuits. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb) (Feb' 23)
 
 ## **Programming Languages**
 
