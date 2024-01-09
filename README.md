@@ -1,4 +1,4 @@
-## Hello! I'm Kevin Joven, also known as **@KevinJoven11** on GitHub. 👋
+## Hello! I'm **@KevinJoven11**. Welcome to my Quantum Computing journey on GitHub. 👋
 
 I'm deeply fascinated by the intersection of Quantum and Computing, a field where cutting-edge innovation meets theoretical exploration. 😃 My primary focus is on **quantum hardware** and **quantum algorithms**, seamlessly blending my academic major with my personal passion. This unique blend allows me to dive deep into the mechanics and potential of quantum computing.
 
