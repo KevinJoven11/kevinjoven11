@@ -16,8 +16,12 @@ Thank you for visiting my profile. Let's explore the quantum world together!
   * [Visualization tools for probabilities using tubes. (QHack 2023 visualization challenge second place)](https://github.com/KevinJoven11/QHack/blob/main/QHack_Visualization_Challenge.ipynb) (Feb' 23)
   * [Filtering Variational Quantum Eigensolver. (ICTP-Quantinuum Hackathon first place)](https://github.com/KevinJoven11/ICTP-Quantinuum-Hackathon-FVQE) (Apr' 23)
 
+▶ Posters: 
+  * [ICTP-2024 Presentation - Quantum Circuit Optimization based on mid-circuits entanglement](https://github.com/KevinJoven11/ICTP-2024-Poster-Presentation)
+
 ▶ Quantum Personal Projects:  
   * [Random Quantum Circuits. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb) (Mar' 23)
+  * [Step-by-Step Parameter Shift-Rule and Gradient Descent using Qiskit](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Parameter_Shift_Rule.ipynb) (Jan' 23)
 
 ## **Programming Languages**
 
