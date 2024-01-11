@@ -17,7 +17,7 @@ Thank you for visiting my profile. Let's explore the quantum world together!
   * [Filtering Variational Quantum Eigensolver. (ICTP-Quantinuum Hackathon first place)](https://github.com/KevinJoven11/ICTP-Quantinuum-Hackathon-FVQE) (Apr' 23)
 
 ▶ Posters: 
-  * [ICTP-2024 Presentation - Quantum Circuit Optimization based on mid-circuits entanglement](https://github.com/KevinJoven11/ICTP-2024-Poster-Presentation)
+  * [ICTP-2024 Presentation - Quantum Circuit Optimization based on mid-circuits entanglement](https://github.com/KevinJoven11/ICTP-2024-Poster-Presentation) (Jan' 24)
 
 ▶ Quantum Personal Projects:  
   * [Random Quantum Circuits. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb) (Mar' 23)
