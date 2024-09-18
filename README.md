@@ -22,9 +22,9 @@ Thank you for visiting my profile. Let's explore the quantum world together!
   * [ICTP-2024 Presentation - Quantum Circuit Optimization based on mid-circuits entanglement](https://github.com/KevinJoven11/ICTP-2024-Poster-Presentation) (Jan' 24)
 
 ▶ Quantum Personal Projects:  
+  * [Quantum Adder/Subtract Circuit](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Adder/Adder.ipynb) (May' 24)
   * [Random Quantum Circuits. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb) (Mar' 23)
   * [Step-by-Step Parameter Shift-Rule and Gradient Descent using Qiskit](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Parameter_Shift_Rule.ipynb) (Jan' 23)
-  * [Quantum Adder/Subtract Circuit](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Adder/Adder.ipynb) (May' 24)
 
 ## **Programming Languages**
 
