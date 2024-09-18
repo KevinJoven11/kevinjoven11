@@ -9,6 +9,7 @@ Thank you for visiting my profile. Let's explore the quantum world together!
 # **Some Interesting Repositories**
 
 ▶ Quantum Algorithms and Useful Implementations:  
+  * [Quantum Phase Estimation for Molecular Systems](https://github.com/KevinJoven11/Quantum-Computing/tree/main/QPE) (Sep' 24)
   * [Quantum Evolution Simulation using Trotter.](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Trotter/Ham_Sim.ipynb) (May' 24)
   * [Linear Combination of Unitaries (LCU).](https://github.com/KevinJoven11/Quantum-Computing/blob/main/LCU/LCU.ipynb) (Dec' 23)  
   * [Matrix descomposition into Pauli operators.](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Pauli_Decomposition.ipynb)  
