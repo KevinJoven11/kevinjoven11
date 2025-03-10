@@ -2,7 +2,7 @@
 
 I'm deeply fascinated by the intersection of Quantum and Computing, a field where cutting-edge innovation meets theoretical exploration. 😃 My primary focus is on **quantum hardware** and **quantum algorithms**, seamlessly blending my academic major with my personal passion. This unique blend allows me to dive deep into the mechanics and potential of quantum computing.
 
-In my repositories, you'll find a variety of projects and problems I've tackled. These range from theoretical concepts to practical applications, all within the realm of quantum computing and related fields. I believe in the power of **open-source** collaboration, so I've made sure that my work is not just a demonstration of my skills, but also a valuable resource for others interested in this exciting domain.
+In my repositories, you'll find a variety of projects and problems I've tackled. These range from theoretical concepts to practical applications, all within the realm of quantum computing and related fields. I believe in the power of **open-source** collaboration, so I've made sure that my work is not just a demonstration of my skills but also a valuable resource for others interested in this exciting domain.
 
 Thank you for visiting my profile. Let's explore the quantum world together!
 
@@ -22,6 +22,8 @@ Thank you for visiting my profile. Let's explore the quantum world together!
   * [ICTP-2024 Presentation - Quantum Circuit Optimization based on mid-circuits entanglement](https://github.com/KevinJoven11/ICTP-2024-Poster-Presentation) (Jan' 24)
 
 ▶ Quantum Personal Projects:  
+
+  * [Quantum Channels and the Bloch Sphere](https://github.com/KevinJoven11/Quantum-Computing/tree/main/Bloch_Sphere) (Mar' 25)
   * [Quantum Adder/Subtract Circuit](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Adder/Adder.ipynb) (May' 24)
   * [Random Quantum Circuits. (QOSF application - selected)](https://github.com/KevinJoven11/qosf_mentorship/blob/main/RQC_QOSF.ipynb) (Mar' 23)
   * [Step-by-Step Parameter Shift-Rule and Gradient Descent using Qiskit](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Parameter_Shift_Rule.ipynb) (Jan' 23)
