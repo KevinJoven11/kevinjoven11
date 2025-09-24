@@ -1,10 +1,8 @@
-## Hello! I'm **@KevinJoven11**. Welcome to my Quantum Computing journey on GitHub. 👋
+## Welcome to my QIS journey on GitHub. 👋
 
-I'm deeply fascinated by the intersection of Quantum and Computing, a field where cutting-edge innovation meets theoretical exploration. 😃 My primary focus is on **quantum hardware** and **quantum algorithms**, seamlessly blending my academic major with my personal passion. This unique blend allows me to dive deep into the mechanics and potential of quantum computing.
+I am Kevin J. Joven, a Ph.D. student in Electrical & Electronics Engineering. My research focuses on the design and theory of new **quantum algorithms and QSP** related and the development of control techniques for **hybrid continuous-variable (CV) and discrete-variable (DV) architectures**, exploring their potential applications in quantum information science. I am interested in applications of quantum algorithms in physical and chemical systems through symmetry-based methods, and the implementation of quantum error correction (QEC) codes for hybrid CV-DV systems. 
 
-In my repositories, you'll find a variety of projects and problems I've tackled. These range from theoretical concepts to practical applications, all within the realm of quantum computing and related fields. I believe in the power of **open-source** collaboration, so I've made sure that my work is not just a demonstration of my skills but also a valuable resource for others interested in this exciting domain.
-
-Thank you for visiting my profile. Let's explore the quantum world together!
+In my repositories, you will find projects that bridge **theoretical research** and **practical applications** in quantum computing. I aim to contribute to the open-source community by sharing tools, ideas, and insights that may support others in advancing this rapidly evolving field.
 
 # **Some Interesting Repositories**
 
