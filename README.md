@@ -1,6 +1,6 @@
-## Welcome to my QIS journey on GitHub. 👋
+## Welcome to my Quantum Information Science journey on GitHub. 👋
 
-I am Kevin J. Joven, a Ph.D. student in Electrical & Electronics Engineering. My research focuses on the design and theory of new **quantum algorithms and QSP** related and the development of control techniques for **hybrid continuous-variable (CV) and discrete-variable (DV) architectures**, exploring their potential applications in quantum information science. I am interested in applications of quantum algorithms in physical and chemical systems through symmetry-based methods, and the implementation of quantum error correction (QEC) codes for hybrid CV-DV systems. 
+I am Kevin J. Joven, a Ph.D. student in Electrical & Electronics Engineering. My research focuses on the design and theory of new **quantum algorithms** related and the development of control techniques for **hybrid continuous-variable (CV) and discrete-variable (DV) architectures**, exploring their potential applications in quantum information science. I am interested in applications of quantum algorithms in physical and chemical systems through symmetry-based methods, and the implementation of quantum error correction (QEC) codes for hybrid CV-DV systems. 
 
 In my repositories, you will find projects that bridge **theoretical research** and **practical applications** in quantum computing. I aim to contribute to the open-source community by sharing tools, ideas, and insights that may support others in advancing this rapidly evolving field.
 
