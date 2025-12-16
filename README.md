@@ -17,7 +17,8 @@ In my repositories, you will find projects that bridge **theoretical research** 
   * [Filtering Variational Quantum Eigensolver. (ICTP-Quantinuum Hackathon first place)](https://github.com/KevinJoven11/ICTP-Quantinuum-Hackathon-FVQE) (Apr' 23)
 
 ▶ Posters: 
-  * [ICTP-2024 Presentation - Quantum Circuit Optimization based on mid-circuits entanglement](https://github.com/KevinJoven11/ICTP-2024-Poster-Presentation) (Jan' 24)
+  * [ICTP-2024 - Quantum Circuit Optimization based on mid-circuits entanglement](https://github.com/KevinJoven11/ICTP-2024-Poster-Presentation) (Jan' 24)
+  * [Fermilab-2025 - Multi-qubit Gates for Efficient Block-encoding and Quantum Simulation](https://github.com/KevinJoven11/Poster_Presentations/tree/main/Fermilab_Dec2025) (Dec 25')
 
 ▶ Quantum Personal Projects:  
 
