@@ -4,6 +4,9 @@ I am Kevin J. Joven, a Ph.D. student in Electrical & Electronics Engineering. My
 
 # **Some Interesting Repositories**
 
+▶ Quantum + AI: 
+  * [Agent Quantum Research](https://github.com/KevinJoven11/QuAgentic/tree/main) (current)
+
 ▶ Quantum Algorithms and Useful Implementations:  
   * [Quantum Phase Estimation (QPE) for Molecular Systems](https://github.com/KevinJoven11/Quantum-Computing/tree/main/QPE) (Sep' 24)
   * [Quantum Evolution Simulation using Trotter.](https://github.com/KevinJoven11/Quantum-Computing/blob/main/Trotter/Ham_Sim.ipynb) (May' 24)
