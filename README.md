@@ -1,6 +1,10 @@
-## Welcome to my Quantum Information Science journey on GitHub. 👋
+## Welcome to my Quantum Information Science journey on GitHub before AI.
 
-I am Kevin J. Joven, a Ph.D. student in Electrical & Electronics Engineering. My research focuses on the design and theory of new **quantum algorithms** related and the development of control techniques for **hybrid continuous-variable (CV) and discrete-variable (DV) architectures**, exploring their potential applications in quantum information science. I am interested in applications of quantum algorithms in physical and chemical systems through symmetry-based methods, and the implementation of quantum error correction (QEC) codes for hybrid CV-DV systems. 
+I am Kevin J. Joven, a Ph.D. student in Electrical & Electronics Engineering. My research focuses on the design and theory of new **quantum algorithms** and the development of control techniques for **hybrid continuous-variable (CV) and discrete-variable (DV)** architectures, exploring their potential applications in **chemistry** and **physics**. I am always up to date with what's going on in the quantum ecosystem. My tools are:
+
+- Block encoding.
+- Quantum Signal Processing.
+- Second Quantization.
 
 # **Some Interesting Repositories**
 
